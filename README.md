@@ -1,2 +1,2 @@
 # Megabyte-Converter
-A simple tool that converts kilobytes into megabytes
+A simple tool that converts kilobytes into megabytes.
